@@ -1,4 +1,4 @@
-## Introduction
+## Investigate Gapminder dataset
 
 This is the second project in the **Udacity Data Analyst Nanodgree** course.
 
