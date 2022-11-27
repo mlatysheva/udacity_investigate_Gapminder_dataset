@@ -2,7 +2,7 @@
 
 This is the second project in the **Udacity Data Analyst Nanodgree** course.
 
-The report is available here:<a href ="investigate_Gapminder_dataset.html"> Investigate Gapminder dataset</a>.
+The report is available here:<a href ="https://mlatysheva.github.io/udacity_investigate_Gapminder_dataset/investigate_Gapminder_dataset.html"> Investigate Gapminder dataset</a>.
 
 The purpose of the proejct is to investigate a dataset, including:
 - choosing a dataset
@@ -42,4 +42,4 @@ In some parts of the analysis I will pay special attention to the following thre
 The full datasets are avilable on the website of Gapminder at:
 https://www.gapminder.org/data/
 
-See the report here:<a href ="investigate_Gapminder_dataset.html"> Investigate Gapminder dataset</a>.
+See the report here:<a href ="https://mlatysheva.github.io/udacity_investigate_Gapminder_dataset/investigate_Gapminder_dataset.html"> Investigate Gapminder dataset</a>.
